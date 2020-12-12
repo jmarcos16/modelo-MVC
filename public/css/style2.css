@@ -1,0 +1,88 @@
+body{
+    /* font-family: 'Noto Sans', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Noto Sans', sans-serif; */
+}
+
+#navbarBasicExample{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.image img {
+    display: block;
+    height: auto;
+    width: 60%;
+}
+
+#coluna{
+    width: 100% auto;
+    margin-top: 110px ;
+}
+#coluna1{
+    width: 100% auto;
+    margin-top: 110px ;
+}
+
+#position1{
+    
+   text-align: center !important;
+   margin-top: 30px;
+}
+
+#color1{
+    background-color: #092849	;
+   
+}
+#color2{
+    margin-top: 120px;}
+    /* opacity: 0;
+    transform: translate3d(-100px,0 ,0);
+    transition: .3%;
+}
+
+.anime-start{
+    opacity: 1;
+    transform: translate3d(0,0 ,0);
+} */
+
+#apresenteion{
+    background-color: #092849	;
+    width: auto;
+    text-align: center;
+}
+
+#color-apresentation{
+    background-color: #114277	;
+}
+
+/* #localcontato{
+    
+} */
+
+.fundoRodape{
+    background-color: black;
+}
+
+#colorRodape{
+    background-color: #3c3d41;
+}
+
+
+#colorCopy{
+    background-color: #343434;
+    color: white;
+    text-align: center;
+}
+
+#espacamento i{
+    width: 18%;
+}
+
+.column a{
+    color: rgb(204, 204, 204);
+}
+
+.column a:hover{
+    color: rgb(31, 127, 218);
+}

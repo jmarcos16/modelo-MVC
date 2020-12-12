@@ -1,0 +1,19 @@
+{
+    "name": "jose/mvc",
+    "description": "Mvc Completo.",
+    "authors": [
+        {
+            "name": "Ze Marcos",
+            "email": "contato.marcosrf@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "../app/",
+            "Src\\": "../src/"
+        }
+    }
+}
