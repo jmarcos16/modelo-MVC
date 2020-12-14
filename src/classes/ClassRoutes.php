@@ -22,12 +22,6 @@ class ClassRoutes
             "" => "ControllerHome",
             "home" => "ControllerHome",
             "sitemap" => "ControllerSitemap",
-            "teste" => "ControllerTeste",
-            "home2" => "ControllerHome2",
-            "login" => "ControllerLogin",
-            "cadastro" => "CotrollerCadastrar",
-            "enviado" => "ControllerUpload",
-            "enviaremail" => "ControllerEnviaremail",
         );
 
         if (array_key_exists($I, $this->Rota)) {
